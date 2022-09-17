@@ -1,1 +1,1 @@
-![SpotifyWidget](https://spotify-widget-two.vercel.app/style1).
+![SpotifyWidget](https://spotify-widget-two.vercel.app/style1)
